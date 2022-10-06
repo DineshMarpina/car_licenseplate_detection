@@ -41,4 +41,4 @@ Try it out on this image in the repository!
 # Run License Plate Recognition
 python detect.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --images ./data/images/car2.jpg --plate
 ## Resulting Image Example
-![alt text]([http://url/to/img.png](https://github.com/theAIGuysCode/yolov4-custom-functions/blob/master/data/helpers/lpr_demo.png))
+![alt text](https://github.com/theAIGuysCode/yolov4-custom-functions/blob/master/data/helpers/lpr_demo.png)
