@@ -1,7 +1,8 @@
 # car_licenseplate_detection
 ## Getting started
+### First clone the repository on your device, then
 ### Installing the required tools and creating a conda environment
-#### Tensorflow GPU
+#### Tensorflow GPU(use the folowing code)
 conda env create -f conda-gpu.yml
 
 conda activate yolov4-gpu
